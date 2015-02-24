@@ -14,7 +14,7 @@ The purpose of this VM is to provide an environment to learn Junos Automation. A
 
 # Getting Started
 ## Download
-The VM is hosted on Google Drive to take advantage of Google's global CDN for faster downloads. Download it [here](http://goo.gl/hDcHLB).
+The VM is hosted on Google Drive as it exceeds the filesize limits of Github. Download it [here](http://goo.gl/hDcHLB).
 
 ## Installation
 View the [wiki](https://github.com/ntwrkguru/junos-automation-vm/wiki)
