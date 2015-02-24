@@ -37,10 +37,11 @@ A copy of the Junoscriptorium is located in the home directory. /home/automation
 `cd ~.source && git pull https://github.com/Juniper/junoscriptorium.git`
 
 # References
-juise
-libslax
-Junos PyEZ
-Junoscriptorium
+
+* juise
+* libslax
+* Junos PyEZ
+* Junoscriptorium
 
 # Support
 Use the [issues tab](https://github.com/ntwrkguru/junos-automation-vm/issues) or reach me on [Twitter](https://twitter.com/ntwrkguru).
