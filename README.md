@@ -14,24 +14,10 @@ The purpose of this VM is to provide an environment to learn Junos Automation. A
 
 # Getting Started
 ## Download
-The VM is hosted on Google Drive to take advantage of Google's global CDN for faster downloads. Download it here.
+The VM is hosted on Google Drive to take advantage of Google's global CDN for faster downloads. Download it [here](http://goo.gl/hDcHLB).
 
 ## Installation
-View the [wiki]
-### Common to all desktop applications
-1. Download the [ZIP file](http://goo.gl/hDcHLB)
-1. Extract the ZIP somewhere you will remember
-
-### VMWare Player
-_You can download VMWare Player free of charge [here](https://my.vmware.com/web/vmware/downloads)._
-1. Start VMWare Player
-1. Click "Open a Virtual Machine" and follow the wizard selecting the AutomationVM.vmx file extracted
-1. Once installed, click "Play virtual machine"
-
-### VMWare Fusion (Mac)
-1. Start Fusion
-1. From the Fusion menu bar, click File > Open (or Open and Run).
-1. Browse to the location of the AutomationVM.VMX file and click Open.
+View the [wiki](https://github.com/ntwrkguru/junos-automation-vm/wiki)
 
 # Usage
 ## Login Credentials
