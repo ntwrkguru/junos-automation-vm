@@ -14,11 +14,11 @@
 
 * Fixed the issue where users were unable to create new projects using the SLAX plugin
 
-### 2015.02.19
-
-* Initial release
-
 ### 2015.02.25
 
 * Changed to VM version 9 for compatibility with more virtualization applications
 * Resolved path issue preventing JSNAP from running properly
+
+### 2015.02.19
+
+* Initial release
