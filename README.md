@@ -1,6 +1,6 @@
-Download the [VM](http://goo.gl/hDcHLB)
+## [Download](http://goo.gl/hDcHLB)
 
-Documentation is in the [wiki](https://github.com/ntwrkguru/junos-automation-vm/wiki)
+## [Documentation](https://github.com/ntwrkguru/junos-automation-vm/wiki)
 
 ## Release history
 
