@@ -4,6 +4,10 @@
 
 ## Release history
 
+### 2015.04.17
+
+* Added SpaceEZ and required components
+
 ### 2015.03.09
 
 * Added LXRandR to enable screen resolution changes
