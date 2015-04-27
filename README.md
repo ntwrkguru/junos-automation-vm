@@ -7,6 +7,7 @@
 ### 2015.04.17
 
 * Added SpaceEZ and required components
+* Also now available as an OVA
 
 ### 2015.03.09
 
